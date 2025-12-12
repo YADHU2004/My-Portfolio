@@ -12,23 +12,23 @@ const certifications: Cert[] = [
   {
     title: 'Java',
     issuer: 'Sololearn',
-    file: 'src/assets/Java Intermediate.jpg',
+    file: 'public/Certifications/Java Intermediate.jpg',
   },
   
   {
     title: 'Web Design Training',
     issuer: 'Besant Technologies',
-    file: 'src/assets/web Designing Training.png',
+    file: 'public/Certifications/web Designing Training.png',
   },
   {
     title: 'React JS Training',
     issuer: 'Besant Technologies',
-    file: 'src/assets/React.js Training.png',
+    file: 'public/Certifications/React.js Training.png',
   },
   {
     title: 'SQL Training',
     issuer: 'Besant Technologies',
-    file: 'src/assets/SQL Training.png',
+    file: 'public/Certifications/SQL Training.png',
   },
  
 ];
