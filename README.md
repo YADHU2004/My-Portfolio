@@ -22,8 +22,8 @@
 
 ## 🌐 Live Demo
 
-🔗 **https://your-vercel-url.vercel.app**  
-_(Replace with your actual deployed link)_
+🔗 **https://yadhu-portfolio.vercel.app/**  
+
 
 ---
 
@@ -118,4 +118,6 @@ Vercel automatically redeploys on every GitHub push.
 
 This project is licensed under the MIT License.
 
-<p align="center"> Made with ❤️ by <strong>Yadhu Anand P</strong> </p>
+<p align="center">
+  Made with ❤️ by<strong>Yadhu Anand P</strong>
+</p>
