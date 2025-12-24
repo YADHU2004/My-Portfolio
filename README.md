@@ -118,6 +118,5 @@ Vercel automatically redeploys on every GitHub push.
 
 This project is licensed under the MIT License.
 
-<p align="center">
-  Made with ❤️ by<strong>Yadhu Anand P</strong>
-</p>
+
+                                                     Made with ❤️ by Yadhu Anand P
